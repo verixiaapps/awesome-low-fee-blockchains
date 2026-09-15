@@ -310,6 +310,8 @@ Ethereum scaling solutions with significantly lower fees than L1.
 - [Jumper Exchange](https://jumper.exchange) - Cross-chain bridging
 - [Stargate](https://stargate.finance) - LayerZero bridge
 - [Hop Protocol](https://hop.exchange) - L2-to-L2 bridging
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
 ---
 
